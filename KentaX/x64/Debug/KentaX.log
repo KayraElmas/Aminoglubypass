@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  glm.cpp
+  glm.cppm
+  imgui_impl_opengl3.cpp
+  imgui_impl_win32.cpp
+  dllmain.cpp
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\Dependencies\include\glm\detail\glm.cpp(264,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\Dependencies\include\glm\glm.cppm(2679,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\Dependencies\include\ImGui\imgui_impl_opengl3.cpp(211,9): warning C4005: 'GL_CALL': macro redefinition
+      C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\Dependencies\include\ImGui\imgui_impl_opengl3.cpp(209,9):
+      see previous definition of 'GL_CALL'
+  
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\Dependencies\include\ImGui\imgui_impl_opengl3.cpp(957,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\Dependencies\include\ImGui\imgui_impl_win32.cpp(904,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "KentaX\\x64\\Release\\glm.obj",
+            "outputs": [
+                "KentaX\\x64\\Release\\glm.cppm.ifc.dt.module.json",
+                "KentaX\\x64\\Release\\glm.cppm.ifc.dt.d.json",
+                "KentaX\\x64\\Release\\glm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "glm",
+                    "source-path": "c:\\users\\kayra\\desktop\\kod\\projeler\\kentax\\dependencies\\include\\glm\\glm.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

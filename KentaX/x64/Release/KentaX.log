@@ -1,0 +1,35 @@
+﻿  Scanning sources for module dependencies...
+  dllmain.cpp
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(57,30): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(57,30): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(84,34): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(84,34): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(130,26): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(130,26): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(134,26): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(138,30): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(138,30): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(140,31): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(140,31): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(157,30): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(159,31): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(169,30): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(171,31): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(181,30): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(181,30): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(183,31): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(183,31): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(193,30): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(195,31): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(199,26): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(199,26): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(204,27): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(204,27): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\dllmain.cpp(204,61): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  5 of 91 functions ( 5.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KentaX.vcxproj -> C:\Users\Kayra\Desktop\Kod\Projeler\KentaX\x64\Release\KentaX.dll
